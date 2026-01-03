@@ -1,0 +1,8 @@
+<!-- VARIATION 1 -->
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="56" fill="#0E0E0E"></rect>
+  <g transform="skewX(-12)">
+    <text x="170" y="380" font-size="360" font-weight="900" font-family="Arial Black, sans-serif" fill="#00E5FF">b</text>
+  </g>
+  <text x="350" y="200" font-size="120" font-weight="800" font-family="Montserrat, sans-serif" fill="#FFFFFF" transform="rotate(90 350 200)">ong</text>
+</svg>
